@@ -1,0 +1,15 @@
+# Gradle
+.gradle
+build
+app/bin/
+
+# Compiled classes
+*.class
+
+# MQTT broker persistence files
+mqtt-client-tcplocalhost1883/
+
+# Test runner artifacts
+natt-logs/
+pid-list.txt
+test_report.html
